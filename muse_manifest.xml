@@ -1,0 +1,61 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="gfkbc.com" resolutions="1x" timestamp="1582538267885">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="contact.css" crc="205515349" ref="contact"/>
+    <file name="index.css" crc="534471015" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="bndmg5b.webp" crc="457948538" seo="true" mt="1580763409000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:contact"/>
+    <file name="museutils.js" crc="183364071" ref="index:contact"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:contact"/>
+    <file name="webpro.js" crc="3803554875" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact"/>
+    <file name="form_check.php" crc="277267350" ref="contact"/>
+    <file name="form_throttle.php" crc="3908387251" ref="contact"/>
+    <file name="form_process.php" crc="24249335" ref="contact"/>
+    <file name="form-u598.php" crc="3933688997" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="new_logo.jpg" crc="3806344533" seo="true" ref="index:contact"/>
+    <file name="u223-4-a.png" crc="83544233" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contact"/>
+    <file name="u236.png" crc="234908702" ref="index"/>
+    <file name="u236-r.png" crc="3830049247" ref="index"/>
+    <file name="u236-a.png" crc="3830049247" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u180-4.png" crc="4284387571" ref="index"/>
+    <file name="u182-4.png" crc="344084583" ref="index"/>
+    <file name="u184-4.png" crc="4198304538" ref="index"/>
+    <file name="ceo_pic.jpg" crc="4086605559" seo="true" ref="index"/>
+    <file name="u135-4.png" crc="4277901353" ref="index"/>
+    <file name="u186-4.png" crc="3794256835" ref="index"/>
+    <file name="u647-5.png" crc="258140731" ref="index"/>
+    <file name="u285-4.png" crc="4229411371" ref="contact"/>
+    <file name="u297.png" crc="3882477145" ref="contact"/>
+    <file name="u297-r.png" crc="83544233" ref="contact"/>
+    <file name="u297-a.png" crc="83544233" ref="contact"/>
+    <file name="u326-4-a.png" crc="3830049247" ref="contact"/>
+    <file name="u614-17.png" crc="4241754975" ref="contact"/>
+    <file name="u614-17-r.png" crc="4000067043" ref="contact"/>
+    <file name="u614-17-m.png" crc="4256145964" ref="contact"/>
+    <file name="u614-17-fs.png" crc="231419591" ref="contact"/>
+    <file name="u311-4.png" crc="4233352136" ref="contact"/>
+    <file name="u648-5.png" crc="3944960038" ref="contact"/>
+    <file name="bleach-cleaner.jpg" crc="3895352690" seo="true" ref="index"/>
+    <file name="cleaning.jpg" crc="213017601" seo="true" ref="index"/>
+    <file name="ezgifcom-webp-to-png.jpg" crc="102483865" seo="true" ref="index"/>
+    <file name="marble-worktop-cleaning-1.jpg" crc="86635848" seo="true" ref="index"/>
+    <file name="shutterstock_assortment-plastic-bottles-cleaning-supplies-together-1168537501.jpg" crc="4043814778" seo="true" ref="index"/>
+    <file name="u1053-4.png" crc="99083877" ref="index"/>
+    <file name="u81-6.png" crc="3936929712" ref="index"/>
+  </folder>
+  <file name="index.html" crc="176365360" seo="true" mt="1581586672179" redirect="true"/>
+  <file name="contact.html" crc="50286968" seo="true" mt="1580770847206" redirect="true"/>
+</manifest>
